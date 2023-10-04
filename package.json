@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "tsc && node dist/app.js",  
+    "test": "jest" 
+  },
+}
